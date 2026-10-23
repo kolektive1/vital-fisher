@@ -11,6 +11,7 @@ Otevři `index.html` v prohlížeči, nebo zapni GitHub Pages (Settings → Page
 
 ## Ovládání
 - Klik nebo tah v obraze nastaví střed vlny, mezerník pozastaví animaci.
+- Vlnění žeber (sekce Refrakce): žebra skla se zvlní do tvaru S. „Počet vln“ určuje hustotu, „Pohyb vlny za cyklus“ ji rozpohybuje a smyčka zůstane plynulá.
 - Předvolby gradientu: Termo, Magnesium, Vitamin C, Řeka.
 
 ## Export
